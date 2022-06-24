@@ -6,8 +6,8 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "homepage":"https://chongchongLin.github.io/vue-actions-deploy"
   },
+  "homepage":"https://chongchongLin.github.io/vue-actions-deploy",
   "dependencies": {
     "core-js": "^3.6.5",
     "vue": "^2.6.11"
